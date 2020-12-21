@@ -16,12 +16,10 @@
 
 # (optional) snippet
 
-`cd`
-
-`cd .vim`
+`cd ~/.vim`
 
 `mkdir UltiSnips`
 
 `cd UltiSnips`
 
-`cp tex.snippet`
+`cp ~/vim-config/tex.snippets .`
